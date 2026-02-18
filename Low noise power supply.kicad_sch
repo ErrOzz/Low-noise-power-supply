@@ -15560,7 +15560,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0805FR-071KL"
+		(property "MPN" "RC0805FR-071KL"
 			(at 354.33 88.9 90)
 			(effects
 				(font
@@ -16141,7 +16141,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0805FR-071KL"
+		(property "MPN" "RC0805FR-071KL"
 			(at 203.2 157.48 90)
 			(effects
 				(font
@@ -18227,7 +18227,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0805FR-071KL"
+		(property "MPN" "RC0805FR-071KL"
 			(at 203.2 101.6 90)
 			(effects
 				(font
@@ -18303,7 +18303,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0805FR-071KL"
+		(property "MPN" "RC0805FR-071KL"
 			(at 354.33 200.66 90)
 			(effects
 				(font
@@ -18555,7 +18555,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0805FR-071KL"
+		(property "MPN" "RC0805FR-071KL"
 			(at 203.2 213.36 90)
 			(effects
 				(font
@@ -24747,7 +24747,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0805FR-071KL"
+		(property "MPN" "RC0805FR-071KL"
 			(at 354.33 144.78 90)
 			(effects
 				(font
