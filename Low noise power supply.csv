@@ -1,36 +1,41 @@
-"Reference";"Value";"MPN";"Qty";"Description"
-"C1,C2";"100n";"B32922C3104M000";"2";"Unpolarized capacitor"
-"C3,C4";"3300p";"B81123C1332M000";"2";"Unpolarized capacitor"
-"C5";"10u";"EEAFC1E100";"1";"Polarized electrolityc capacitor"
-"C6,C43,C44,C45,C50,C51,C60,C61,C62,C67,C68,C77,C78,C79,C84,C85";"10u";"C3225B106K500NT";"16";"Unpolarized ceramic capacitor"
-"C7";"1u";"08053C105KAT2A";"1";"Unpolarized ceramic capacitor"
-"C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25,C26,C27,C28,C29,C30,C31,C32,C33,C34,C35,C36,C37,C40,C41,C57,C58,C74,C75";"1000u";"EEUFM1V102";"36";"Polarized electrolityc capacitor"
-"C38,C39,C42,C52,C55,C56,C59,C69,C72,C73,C76,C86";"100u";"EEUFR1E101";"12";"Polarized electrolityc capacitor"
-"C46,C47,C48,C49,C63,C64,C65,C66,C80,C81,C82,C83";"220u";"EEUFR1E221";"12";"Polarized electrolityc capacitor"
-"C53,C54,C70,C71,C87,C88";"1u";"C2012B105K500NT2";"6";"Unpolarized ceramic capacitor"
-"CT1,CT2,CT3,CT4,CT5,CT6,CT7,CT8,CT9,CT10,CT11,CT12,CT13,CT14,CT15";"33u";"293D336X9025D2TE3";"15";"Polarized tantal capacitor"
-"D1,D2,D3,D4,D5,D6";"1N4007L";"1N4007L";"6";"50V 1A General Purpose Rectifier Diode, DO-41"
-"F1";"MST-3.15A-250V";"ZH101B-032";"1";"Fuse"
-"K1";"RZ03-1A4-D012";"1-1415899-6";"1";"General Purpose Low Profile Relay SPST Through Hole, Omron G2RL series, Normally Open, 12A 250VAC"
-"L1";"SQ1515-10uH 4A";"SQ1515-10uH 4A";"1";""
-"L2,L3,L4";"220u";"CDRH127/LDNP-221MC";"3";"SMD Power Inductor"
-"PS1";"IRM-60-15";"IRM-60-15";"1";"15V, 4A, 60W, Isolated, AC-DC, IRM60"
-"R1";"NTC 10 Ом";"B57235S0100M000";"1";"NTC 10 Ом, 3.0А, 9.5мм"
-"R2";"4k7";"RC0805FR-074K7L";"1";"Resistor"
-"R3";"91k";"RC0805FR-0791KL";"1";"Resistor"
-"R4,R12,R20";"240";"RC0805FR-07240RL";"3";"Resistor"
-"R5";"2k26";"RC0805FR-072K26L";"1";"Resistor"
-"R6,R7,R14,R15,R22,R23";"1k";"RC0805FR-071KL";"6";"Resistor"
-"R8,R9,R16,R17,R24,R25";"0.2";"Cupper wire";"6";"Cupper wire on the plate"
-"R10";"4k3";"RC0805FR-074K3L";"1";"Resistor"
-"R11";"56k2";"RC0805FR-0756K2L";"1";"Resistor"
-"R13";"909";"RC0805FR-07909RL";"1";"Resistor"
-"R18";"4k99";"RC0805FR-074K99L";"1";"Resistor"
-"R19";"20k";"RC0805FR-0720KL";"1";"Resistor"
-"R21";"576";"RC0805FR-07576RL";"1";"Resistor"
-"R26";"100";"RC0805FR-07100RL";"1";"Resistor"
-"R27";"16k5";"RC0805FR-0716K5L";"1";"Resistor"
-"RV1";"S14K420";"B72214S0421K101";"1";"Voltage dependent resistor"
-"U1";"NE555D";"TS555IDTTR";"1";"Precision Timers, 555 compatible, SOIC-8"
-"U2,U5,U8";"LM317T";"LM317T";"3";"1.5A 35V Adjustable Linear Regulator, TO-220"
-"U3,U4,U6,U7,U9,U10";"LT3045xMSE";"LT3045xMSE";"6";"500mA, Adjustable, Ultralow Noise, Ultrahigh PSRR Linear Regulator, MSOP-12"
+Reference;Value;MPN;Qty;Description
+C1,C2;100n;B32922C3104M000;2;Unpolarized capacitor
+C3,C4;3300p;B81123C1332M000;2;Unpolarized capacitor
+C5;10u;EEAFC1E100;1;Polarized electrolityc capacitor
+C6,C39,C40,C45,C46,C54,C57,C58;10u;C3225B106K500NT;8;Unpolarized ceramic capacitor
+C7,C43,C49;1u;C2012B105K500NT2;3;Unpolarized ceramic capacitor
+C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25,C26,C27,C28,C29,C30,C31,C32,C33,C34,C35,C36,C37,C52,C53,C60,C61;1000u;EEUFM1V102;34;Polarized electrolityc capacitor
+C38,C44,C50,C51,C56,C59;100u;EEUFR1E101;6;Polarized electrolityc capacitor
+C41,C42,C47,C48;220u;EEUFR1E221;4;Polarized electrolityc capacitor
+C55;100n;08055C104K4T2A;1;Unpolarized ceramic capacitor
+C62;150p;CC0805JRNPO0BN151;1;Unpolarized ceramic capacitor
+CT1,CT2,CT3,CT4,CT5,CT6;33u;293D336X9025D2TE3;6;Polarized tantal capacitor
+D1,D2,D3,D4;1N4007L;1N4007L;4;50V 1A General Purpose Rectifier Diode, DO-41
+D5;BAT54J;BAT54J;1;30V 200mA Schottky diode, SOD-323F
+D6;B340;B340A-13-F;1;40V 3A Schottky Barrier Rectifier Diode, SMC
+F1;MST-3.15A-250V;ZH101B-032;1;Fuse
+K1;RZ03-1A4-D012;1-1415899-6;1;General Purpose Low Profile Relay SPST Through Hole, Omron G2RL series, Normally Open, 12A 250VAC
+L1;SQ1515-10uH 4A;SQ1515-10uH 4A;1;
+L2,L3;220u;CDRH127/LDNP-221MC;2;SMD Power Inductor
+L4;22u;SLF12565T-220M3R5-PF;1;SMD Power Inductor
+PS1;IRM-60-15;IRM-60-15;1;15V, 4A, 60W, Isolated, AC-DC, IRM60
+R1;NTC 10 Ом;B57235S0100M000;1;NTC 10 Ом, 3.0А, 9.5мм
+R2;4k7;RC0805FR-074K7L;1;Resistor
+R3;91k;RC0805FR-0791KL;1;Resistor
+R4,R6;0.2;Cupper wire;2;Cupper wire on the plate
+R5,R12;20k;RC0805FR-0720KL;2;Resistor
+R7;56k2;RC0805FR-0756K2L;1;Resistor
+R8,R13;10k;RC0805FR-0710KL;2;Resistor
+R9;4k3;RC0805FR-074K3L;1;Resistor
+R10;240;RC0805FR-07240RL;1;Resistor
+R11;2k26;RC0805FR-072K26L;1;Resistor
+R14;180k;RC0805FR-07180KL;1;Resistor
+R15;300k;RC0805FR-07300KL;1;Resistor
+R16;147k;RC0805FR-07147KL;1;Resistor
+R17;19k6;RC0805FR-0719K6L;1;Resistor
+RV1;S14K420;B72214S0421K101;1;Voltage dependent resistor
+U1;NE555D;TS555IDTTR;1;Precision Timers, 555 compatible, SOIC-8
+U2,U3;LT3045xMSE;LT3045xMSE;2;500mA, Adjustable, Ultralow Noise, Ultrahigh PSRR Linear Regulator, MSOP-12
+U4;LM317T;LM317T;1;1.5A 35V Adjustable Linear Regulator, TO-220
+U5;L78L05;L78L05;1;Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-23
+U6;MP1584EN;MP1584EN;1;Synchronous Rectified 3A, 28V, 1.5MHz Step-Down Converter, SOIC-8
