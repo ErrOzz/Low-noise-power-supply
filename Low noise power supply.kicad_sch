@@ -5495,6 +5495,12 @@
 		(uuid "7bd49239-5aa5-4309-b18c-f476649a2490")
 	)
 	(junction
+		(at 71.12 166.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c4d24bd-e073-46c2-9c9e-e78f1e4d2f36")
+	)
+	(junction
 		(at 330.2 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5553,6 +5559,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8fa66867-f56c-4ae2-8ed1-8303df917a33")
+	)
+	(junction
+		(at 81.28 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8fbc3a34-e73e-4816-910a-bbf4f0102656")
 	)
 	(junction
 		(at 327.66 100.33)
@@ -5711,12 +5723,6 @@
 		(uuid "b09e1458-4184-48f5-bb00-68bd79328116")
 	)
 	(junction
-		(at 96.52 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b26265dd-3269-4f80-b75c-6a56d475a528")
-	)
-	(junction
 		(at 381 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5813,6 +5819,12 @@
 		(uuid "c96043e2-8dd8-4b0d-8c11-d37782123d37")
 	)
 	(junction
+		(at 60.96 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca31ed53-ed39-4d28-bf5d-7b76a08f6643")
+	)
+	(junction
 		(at 317.5 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5895,6 +5907,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0ef22ea-fddb-4aa3-bfa2-094c894698fd")
+	)
+	(junction
+		(at 96.52 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2a67331-337c-4ce3-bb4f-75c9a7edc0b7")
 	)
 	(junction
 		(at 161.29 185.42)
@@ -6575,6 +6593,16 @@
 			(type default)
 		)
 		(uuid "1be2ab38-cf71-469b-a3d1-eb900a9a956d")
+	)
+	(wire
+		(pts
+			(xy 81.28 165.1) (xy 81.28 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cc99b57-901a-40ab-a94e-8931013d3119")
 	)
 	(wire
 		(pts
@@ -7308,6 +7336,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 166.37) (xy 71.12 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "463c4bfe-4cfd-48d8-a503-95f7d9aaad17")
+	)
+	(wire
+		(pts
 			(xy 304.8 66.04) (xy 304.8 68.58)
 		)
 		(stroke
@@ -7318,7 +7356,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 160.02) (xy 121.92 170.18)
+			(xy 121.92 154.94) (xy 121.92 170.18)
 		)
 		(stroke
 			(width 0)
@@ -7588,7 +7626,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 160.02) (xy 96.52 165.1)
+			(xy 96.52 154.94) (xy 96.52 165.1)
 		)
 		(stroke
 			(width 0)
@@ -7718,6 +7756,26 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 154.94) (xy 50.8 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d3f135f-340a-4468-8aa5-cd50855e1f45")
+	)
+	(wire
+		(pts
+			(xy 81.28 154.94) (xy 83.82 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5df3c87e-c356-4260-ae23-a337a88cd8ca")
+	)
+	(wire
+		(pts
 			(xy 114.3 110.49) (xy 114.3 125.73)
 		)
 		(stroke
@@ -7738,7 +7796,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 160.02) (xy 119.38 160.02)
+			(xy 121.92 154.94) (xy 119.38 154.94)
 		)
 		(stroke
 			(width 0)
@@ -8408,7 +8466,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 160.02) (xy 96.52 160.02)
+			(xy 111.76 154.94) (xy 96.52 154.94)
 		)
 		(stroke
 			(width 0)
@@ -8538,7 +8596,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 160.02) (xy 96.52 160.02)
+			(xy 91.44 154.94) (xy 96.52 154.94)
 		)
 		(stroke
 			(width 0)
@@ -8668,6 +8726,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 154.94) (xy 60.96 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a15a7d04-222c-40cc-95e7-c049393eed5b")
+	)
+	(wire
+		(pts
 			(xy 171.45 68.58) (xy 189.23 68.58)
 		)
 		(stroke
@@ -8708,7 +8776,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 160.02) (xy 50.8 160.02)
+			(xy 63.5 154.94) (xy 60.96 154.94)
 		)
 		(stroke
 			(width 0)
@@ -8778,7 +8846,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 167.64) (xy 71.12 201.93)
+			(xy 71.12 162.56) (xy 71.12 166.37)
 		)
 		(stroke
 			(width 0)
@@ -9248,6 +9316,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 154.94) (xy 81.28 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c09d86d2-4e09-467d-87d4-7d0beca71e1d")
+	)
+	(wire
+		(pts
 			(xy 161.29 170.18) (xy 161.29 172.72)
 		)
 		(stroke
@@ -9638,6 +9716,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 166.37) (xy 81.28 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1e826eb-d334-468d-88f7-a6f5bab6d222")
+	)
+	(wire
+		(pts
 			(xy 289.56 153.67) (xy 289.56 148.59)
 		)
 		(stroke
@@ -9878,6 +9966,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 166.37) (xy 71.12 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1c40173-6cc4-408a-ad00-0558014cd742")
+	)
+	(wire
+		(pts
 			(xy 367.03 138.43) (xy 369.57 138.43)
 		)
 		(stroke
@@ -9998,7 +10096,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 160.02) (xy 83.82 160.02)
+			(xy 78.74 154.94) (xy 81.28 154.94)
 		)
 		(stroke
 			(width 0)
@@ -10028,7 +10126,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 160.02) (xy 50.8 170.18)
+			(xy 50.8 154.94) (xy 50.8 170.18)
 		)
 		(stroke
 			(width 0)
@@ -10165,6 +10263,16 @@
 			(type default)
 		)
 		(uuid "f2481953-2c6f-4cf9-89f2-cb3b565ae90e")
+	)
+	(wire
+		(pts
+			(xy 60.96 165.1) (xy 60.96 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f49c895a-3bed-464b-a459-1be1f866c21f")
 	)
 	(wire
 		(pts
@@ -11682,7 +11790,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:L78L05_SOT89")
-		(at 71.12 160.02 0)
+		(at 71.12 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11691,15 +11799,15 @@
 		(fields_autoplaced yes)
 		(uuid "0d681147-52b6-4c81-ba91-4bca300f90bb")
 		(property "Reference" "U4"
-			(at 71.12 153.67 0)
+			(at 71.12 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "L78L05"
-			(at 71.12 156.21 0)
+		(property "Value" "78L05"
+			(at 71.12 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11707,7 +11815,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
-			(at 71.12 154.94 0)
+			(at 71.12 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11717,7 +11825,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf"
-			(at 71.12 161.29 0)
+			(at 71.12 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11726,7 +11834,7 @@
 			)
 		)
 		(property "Description" "Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-23"
-			(at 71.12 160.02 0)
+			(at 71.12 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11734,8 +11842,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "L78L05"
-			(at 71.12 160.02 0)
+		(property "MPN" "78L05"
+			(at 71.12 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16646,7 +16754,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 115.57 160.02 90)
+		(at 115.57 154.94 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16655,7 +16763,7 @@
 		(dnp no)
 		(uuid "96985c7f-f5c7-42ac-baae-9ddcfc40ab7a")
 		(property "Reference" "C52"
-			(at 115.57 165.1 90)
+			(at 115.57 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16663,7 +16771,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 115.57 167.64 90)
+			(at 115.57 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16671,7 +16779,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 160.9852 0)
+			(at 119.38 155.9052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16680,7 +16788,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 160.02 0)
+			(at 115.57 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16689,7 +16797,7 @@
 			)
 		)
 		(property "Description" "Unpolarized ceramic capacitor"
-			(at 115.57 160.02 0)
+			(at 115.57 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16698,7 +16806,7 @@
 			)
 		)
 		(property "MPN" "08055C104K4T2A"
-			(at 115.57 160.02 0)
+			(at 115.57 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17269,6 +17377,85 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73"
 					(reference "C45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 60.96 161.29 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a274f99d-e3e4-4445-a60b-ce848604dde8")
+		(property "Reference" "C61"
+			(at 57.15 160.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 57.15 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.9948 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 60.96 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized ceramic capacitor"
+			(at 60.96 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C2012B105K500NT2"
+			(at 60.96 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e86686a5-c373-48cc-b3d8-77b5e6ead0c1")
+		)
+		(pin "2"
+			(uuid "f59ce67c-a2a8-480e-9fe1-b6d35bf99a04")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73"
+					(reference "C61")
 					(unit 1)
 				)
 			)
@@ -18754,7 +18941,7 @@
 	)
 	(symbol
 		(lib_id "Diode:BAT54J")
-		(at 87.63 160.02 180)
+		(at 87.63 154.94 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18763,7 +18950,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce5d3f9a-03a1-41d0-81bf-fd0273fce49a")
 		(property "Reference" "D5"
-			(at 87.9475 153.67 0)
+			(at 87.9475 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18771,7 +18958,7 @@
 			)
 		)
 		(property "Value" "BAT54J"
-			(at 87.9475 156.21 0)
+			(at 87.9475 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18779,7 +18966,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323F"
-			(at 87.63 155.575 0)
+			(at 87.63 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18788,7 +18975,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf"
-			(at 87.63 160.02 0)
+			(at 87.63 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18797,7 +18984,7 @@
 			)
 		)
 		(property "Description" "30V 200mA Schottky diode, SOD-323F"
-			(at 87.63 160.02 0)
+			(at 87.63 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18806,7 +18993,7 @@
 			)
 		)
 		(property "MPN" "BAT54J"
-			(at 87.63 160.02 0)
+			(at 87.63 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20568,6 +20755,84 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73"
 					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 81.28 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f064c4b7-cf0c-471a-ab52-1d5097fd7e38")
+		(property "Reference" "C60"
+			(at 85.09 160.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 85.09 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 82.2452 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized ceramic capacitor"
+			(at 81.28 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C2012B105K500NT2"
+			(at 81.28 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "149a769f-a9a5-4051-a09b-521187274a2e")
+		)
+		(pin "2"
+			(uuid "38aad820-687f-41ed-8e9c-052127f74c0c")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73"
+					(reference "C60")
 					(unit 1)
 				)
 			)
