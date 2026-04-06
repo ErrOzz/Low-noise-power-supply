@@ -499,7 +499,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "${PROJECTNAME}_3v3.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ";",
@@ -650,6 +650,10 @@
     [
       "fca69f12-2166-43a7-ac92-c50992f66d73",
       "Root"
+    ],
+    [
+      "4931e360-a75e-47ea-922d-b3c20c53c58e",
+      "3.3V 2A output stage"
     ]
   ],
   "text_variables": {}
