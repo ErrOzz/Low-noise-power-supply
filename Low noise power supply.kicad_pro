@@ -652,8 +652,16 @@
       "Root"
     ],
     [
+      "8482f0e5-17d6-4454-a96f-04921bf44396",
+      "Primary supply"
+    ],
+    [
+      "9f391ce8-5af9-46a1-8a20-7b36334a3f29",
+      "Universal 1A output stage"
+    ],
+    [
       "4931e360-a75e-47ea-922d-b3c20c53c58e",
-      "3.3V 2A output stage"
+      "3.3V 2A PWM output stage"
     ]
   ],
   "text_variables": {}

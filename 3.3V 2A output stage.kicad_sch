@@ -5821,27 +5821,16 @@
 			)
 		)
 	)
-	(global_label "ENABLE"
-		(shape bidirectional)
+	(hierarchical_label "ENABLE"
+		(shape input)
 		(at 41.91 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "29736840-6980-4c3f-8eb7-c4d521251cc6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.7983 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "4c42a4aa-f9ee-4072-b0ec-4927d5bfab77")
 	)
 	(symbol
 		(lib_id "Device:R")
