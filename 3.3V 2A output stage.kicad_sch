@@ -8515,7 +8515,7 @@
 				)
 			)
 		)
-		(property "Value" "0.2"
+		(property "Value" "0.02"
 			(at 359.41 161.798 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9007,7 +9007,7 @@
 				)
 			)
 		)
-		(property "Value" "0.2"
+		(property "Value" "0.02"
 			(at 359.41 47.752 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9858,7 +9858,7 @@
 				)
 			)
 		)
-		(property "Value" "0.2"
+		(property "Value" "0.02"
 			(at 359.41 123.952 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10568,7 +10568,7 @@
 				)
 			)
 		)
-		(property "Value" "0.2"
+		(property "Value" "0.02"
 			(at 359.41 85.598 90)
 			(show_name no)
 			(do_not_autoplace no)

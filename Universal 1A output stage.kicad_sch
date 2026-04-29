@@ -10532,7 +10532,7 @@
 				)
 			)
 		)
-		(property "Value" "0.2"
+		(property "Value" "0.02"
 			(at 363.22 23.622 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12470,7 +12470,7 @@
 				)
 			)
 		)
-		(property "Value" "0.2"
+		(property "Value" "0.02"
 			(at 363.22 61.468 90)
 			(show_name no)
 			(do_not_autoplace no)
