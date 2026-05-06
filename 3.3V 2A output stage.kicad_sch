@@ -11400,8 +11400,8 @@
 				)
 			)
 		)
-		(property "Value" "+12V"
-			(at 389.382 50.8 90)
+		(property "Value" "+3.3V"
+			(at 391.414 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
