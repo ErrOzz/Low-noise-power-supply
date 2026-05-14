@@ -675,7 +675,7 @@
         "uuid": "fca69f12-2166-43a7-ac92-c50992f66d73"
       }
     ],
-    "used_designators": "TP1,SP2-13,#PWR211-228,#PWR332,C233-240,C336",
+    "used_designators": "L203-204,L308-310,D202,D310-312,#PWR226,#PWR229-252,#PWR333-344,CT210-218,CT313-318,C241-279,C390-416,SP14-24,R213-224,R338-351,U206-210,U311-315",
     "variants": []
   },
   "sheets": [
@@ -690,6 +690,10 @@
     [
       "9f391ce8-5af9-46a1-8a20-7b36334a3f29",
       "Universal 1A output stage"
+    ],
+    [
+      "8d320d21-90c8-48af-83c0-ce24a813bc66",
+      "3.3V 1A PWM output stage"
     ],
     [
       "4931e360-a75e-47ea-922d-b3c20c53c58e",

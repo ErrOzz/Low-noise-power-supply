@@ -3743,6 +3743,12 @@
 		(uuid "3f3a1940-6540-4fe7-8cd9-f71df36a6ce2")
 	)
 	(junction
+		(at 330.2 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "404d711e-e621-49cd-b8cb-58d32862cd81")
+	)
+	(junction
 		(at 269.24 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3755,10 +3761,22 @@
 		(uuid "4924e610-6c6e-4421-92e3-e46a55174352")
 	)
 	(junction
+		(at 330.2 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49c1d49a-89a8-4f34-a2d2-d1b510e81cc6")
+	)
+	(junction
 		(at 320.04 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e00815b-ab94-47d8-9c9f-367dc2baca3e")
+	)
+	(junction
+		(at 356.87 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4fe6a6c0-00bf-4ff4-91b3-8e8216ca01fa")
 	)
 	(junction
 		(at 345.44 81.28)
@@ -3903,6 +3921,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "89b49b46-f651-4639-a816-7ff9bf31b10e")
+	)
+	(junction
+		(at 356.87 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8cb4f7d4-d1fc-477a-b4b9-ac1f692c7907")
 	)
 	(junction
 		(at 332.74 81.28)
@@ -4159,6 +4183,16 @@
 			(type default)
 		)
 		(uuid "00d84ce6-247f-4b8a-986e-51ca291d2bf1")
+	)
+	(wire
+		(pts
+			(xy 330.2 97.79) (xy 328.93 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03463d8f-d499-460f-a488-93f7819c271e")
 	)
 	(wire
 		(pts
@@ -4422,6 +4456,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 97.79) (xy 356.87 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2662d7a3-9ca7-473c-90c6-2a99d995867f")
+	)
+	(wire
+		(pts
 			(xy 212.09 55.88) (xy 213.36 55.88)
 		)
 		(stroke
@@ -4532,6 +4576,16 @@
 	)
 	(wire
 		(pts
+			(xy 331.47 148.59) (xy 328.93 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32c1b32e-8b35-49b5-a9cf-a7ae84c298f6")
+	)
+	(wire
+		(pts
 			(xy 110.49 41.91) (xy 110.49 38.1)
 		)
 		(stroke
@@ -4562,6 +4616,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 123.19) (xy 356.87 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a62ca8e-78ce-4bdd-9cc9-55add79c5e74")
+	)
+	(wire
+		(pts
 			(xy 332.74 78.74) (xy 332.74 81.28)
 		)
 		(stroke
@@ -4569,6 +4633,16 @@
 			(type default)
 		)
 		(uuid "3c9259de-e12b-4eca-979a-e9fa357d6c5e")
+	)
+	(wire
+		(pts
+			(xy 356.87 123.19) (xy 355.6 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f15eab4-aa14-4e2a-b2f1-06bab97c6fe9")
 	)
 	(wire
 		(pts
@@ -4779,6 +4853,16 @@
 			(type default)
 		)
 		(uuid "5683837f-1e3f-43bd-a93e-4d92cd5821df")
+	)
+	(wire
+		(pts
+			(xy 330.2 123.19) (xy 328.93 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56b352f4-0207-441b-9097-dd9907c86deb")
 	)
 	(wire
 		(pts
@@ -5072,6 +5156,16 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 123.19) (xy 356.87 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "706730cb-863f-4431-8579-d5d4910d1c6d")
+	)
+	(wire
+		(pts
 			(xy 87.63 50.8) (xy 87.63 71.12)
 		)
 		(stroke
@@ -5172,6 +5266,16 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 107.95) (xy 356.87 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7953bc17-bc60-41b0-8fba-2122c0bb817f")
+	)
+	(wire
+		(pts
 			(xy 81.28 50.8) (xy 87.63 50.8)
 		)
 		(stroke
@@ -5209,6 +5313,16 @@
 			(type default)
 		)
 		(uuid "7a92568b-23c0-4449-a8a3-8388fb079f8c")
+	)
+	(wire
+		(pts
+			(xy 356.87 133.35) (xy 356.87 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7be04f91-a2cc-4ff0-b7f2-ea398afd97d8")
 	)
 	(wire
 		(pts
@@ -5342,6 +5456,16 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 97.79) (xy 355.6 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc40cda-84a2-4cae-a2e7-af83c533fe9d")
+	)
+	(wire
+		(pts
 			(xy 102.87 101.6) (xy 102.87 102.87)
 		)
 		(stroke
@@ -5422,6 +5546,16 @@
 	)
 	(wire
 		(pts
+			(xy 331.47 97.79) (xy 330.2 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96c64779-48f5-40bd-ab6b-55a31afd4dd0")
+	)
+	(wire
+		(pts
 			(xy 143.51 38.1) (xy 149.86 38.1)
 		)
 		(stroke
@@ -5469,6 +5603,16 @@
 			(type default)
 		)
 		(uuid "9f1670b1-3312-4a4c-a4dc-dce00defaafe")
+	)
+	(wire
+		(pts
+			(xy 358.14 148.59) (xy 355.6 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a058ecb4-0bc7-4b54-a810-57ada1983bbf")
 	)
 	(wire
 		(pts
@@ -5629,6 +5773,16 @@
 			(type default)
 		)
 		(uuid "b31c50a2-1d55-4553-b787-571d06d56306")
+	)
+	(wire
+		(pts
+			(xy 330.2 133.35) (xy 330.2 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3ca806e-cad4-4b8c-b72a-e3c1500294ea")
 	)
 	(wire
 		(pts
@@ -5862,6 +6016,16 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 97.79) (xy 356.87 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9c652fa-ce9e-4943-96a9-15eeb4daca2f")
+	)
+	(wire
+		(pts
 			(xy 358.14 66.04) (xy 345.44 66.04)
 		)
 		(stroke
@@ -5919,6 +6083,16 @@
 			(type default)
 		)
 		(uuid "d5364769-cf19-49f6-b3b6-c37261ffcc51")
+	)
+	(wire
+		(pts
+			(xy 331.47 123.19) (xy 330.2 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5c95431-8287-4ea2-a81c-c5a5e200b821")
 	)
 	(wire
 		(pts
@@ -6122,6 +6296,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 107.95) (xy 330.2 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7b008d8-98ad-48ee-b66f-a36dd6712d77")
+	)
+	(wire
+		(pts
 			(xy 320.04 63.5) (xy 320.04 66.04)
 		)
 		(stroke
@@ -6292,6 +6476,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 97.79) (xy 330.2 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6cb8c68-b73f-4c20-a9cf-3adff55bc0d7")
+	)
+	(wire
+		(pts
 			(xy 332.74 38.1) (xy 320.04 38.1)
 		)
 		(stroke
@@ -6329,6 +6523,16 @@
 			(type default)
 		)
 		(uuid "f93adb06-c7bd-4a98-89d4-c227b2f0783c")
+	)
+	(wire
+		(pts
+			(xy 330.2 123.19) (xy 330.2 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f94b48a9-1b86-421e-8c57-ca35db34de57")
 	)
 	(wire
 		(pts
@@ -6412,6 +6616,17 @@
 	)
 	(hierarchical_label "ENABLE"
 		(shape output)
+		(at 355.6 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "34733b4e-0b6e-4e54-848b-fa12f568bc94")
+	)
+	(hierarchical_label "ENABLE"
+		(shape output)
 		(at 384.81 123.19 180)
 		(effects
 			(font
@@ -6423,6 +6638,17 @@
 	)
 	(hierarchical_label "ENABLE"
 		(shape output)
+		(at 328.93 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5b2a676b-4cc0-4fe9-afed-69f7dccf4ee9")
+	)
+	(hierarchical_label "ENABLE"
+		(shape output)
 		(at 179.07 46.99 180)
 		(effects
 			(font
@@ -6431,6 +6657,85 @@
 			(justify right)
 		)
 		(uuid "8987c7d0-0f47-414f-8c43-f7249ce2b456")
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 356.87 109.22 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "00c792f3-4c5b-4138-aa27-e152600f27ed")
+		(property "Reference" "#PWR0230"
+			(at 356.87 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 356.87 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 356.87 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 356.87 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 356.87 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "240c9f30-05f0-400d-8f6e-5f87432f0d4f")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "#PWR0230")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC807")
@@ -6524,6 +6829,100 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
 					(reference "Q301")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 330.2 129.54 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "073753d4-b9a9-428b-9674-e2073c301adf")
+		(property "Reference" "C244"
+			(at 326.39 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2n2"
+			(at 326.39 130.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 329.2348 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized ceramic capacitor"
+			(at 330.2 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C3225B106K500NT"
+			(at 330.2 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "362cb12b-bb98-42a3-b325-45b5e3d76ba3")
+		)
+		(pin "2"
+			(uuid "3d046523-21bf-4725-82b8-70a0b816c557")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "C244")
 					(unit 1)
 				)
 			)
@@ -7321,6 +7720,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 331.47 123.19 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22634ac5-4a1f-476e-9b5c-1ea57ce9ed0c")
+		(property "Reference" "SP18"
+			(at 334.772 118.11 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ENABLE"
+			(at 334.772 120.65 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 331.47 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 331.47 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 331.47 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c73289d3-6d1d-4e91-ba26-5ac0dfb9fe55")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "SP18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Fuse")
 		(at 45.72 38.1 90)
 		(unit 1)
@@ -7827,6 +8304,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 358.14 123.19 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ef416bf-e7da-4036-a960-49cfb62904f8")
+		(property "Reference" "SP15"
+			(at 361.442 118.11 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ENABLE"
+			(at 361.442 120.65 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 358.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 358.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 358.14 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "94467535-6c24-4250-98b2-043332ce06cd")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "SP15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDPWR")
 		(at 36.83 82.55 0)
 		(unit 1)
@@ -8256,6 +8811,100 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
 					(reference "C327")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 356.87 104.14 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "542222fa-73db-44e4-bdf1-d2442c18ff17")
+		(property "Reference" "C241"
+			(at 353.06 102.8699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2n2"
+			(at 353.06 105.4099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 355.9048 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 356.87 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized ceramic capacitor"
+			(at 356.87 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C3225B106K500NT"
+			(at 356.87 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fa9c4097-1cd5-4f9c-862d-660cf24f8310")
+		)
+		(pin "2"
+			(uuid "1b63b847-db76-459d-9180-dbc61732be36")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "C241")
 					(unit 1)
 				)
 			)
@@ -8981,6 +9630,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:Earth")
+		(at 356.87 134.62 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b1ae605-3c11-479a-b763-d20550015eb2")
+		(property "Reference" "#PWR0231"
+			(at 356.87 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 356.87 139.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 356.87 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 356.87 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 356.87 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ceeb15e8-15f4-44d9-bf9b-522c45d660ed")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "#PWR0231")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+15V")
 		(at 384.81 97.79 90)
 		(unit 1)
@@ -9335,6 +10063,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+15V")
+		(at 328.93 97.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7521a2ca-1b25-47d3-b463-2a34d7f949d8")
+		(property "Reference" "#PWR0232"
+			(at 332.74 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+15V"
+			(at 325.12 97.7899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 328.93 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 328.93 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+15V\""
+			(at 328.93 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e25812d9-b0c6-4936-8efd-229204065ba7")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "#PWR0232")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 320.04 44.45 0)
 		(unit 1)
@@ -9608,6 +10414,84 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
 					(reference "C313")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 358.14 97.79 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7c0c82d0-72d7-4597-969a-dc7e8e18255f")
+		(property "Reference" "SP14"
+			(at 361.442 92.71 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+15V_out"
+			(at 361.442 95.25 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 358.14 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 358.14 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 358.14 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "eb440319-87fe-4c80-ab7b-1389fe5ab9a2")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "SP14")
 					(unit 1)
 				)
 			)
@@ -9963,6 +10847,509 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
 					(reference "C322")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 330.2 134.62 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87f6d57b-7133-46e0-9a69-0eb72c4ec3c6")
+		(property "Reference" "#PWR0235"
+			(at 330.2 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 330.2 139.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 330.2 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "14741b39-33aa-451b-ba34-a16e7033dad9")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "#PWR0235")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 330.2 104.14 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c04596b-0d6b-4a72-bed7-e979baa88ef6")
+		(property "Reference" "C243"
+			(at 326.39 102.8699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2n2"
+			(at 326.39 105.4099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 329.2348 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized ceramic capacitor"
+			(at 330.2 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C3225B106K500NT"
+			(at 330.2 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "60196f2d-f630-4f91-9e27-b31d83685039")
+		)
+		(pin "2"
+			(uuid "67d61591-71fb-46f8-ba1a-0281f1f457e9")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "C243")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 328.93 148.59 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8ca2d653-d937-424e-9b32-ce4a0eb33f35")
+		(property "Reference" "#PWR0233"
+			(at 328.93 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 328.93 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 328.93 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 328.93 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 328.93 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d097cd55-8167-4835-b226-6e8df730ed02")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "#PWR0233")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 355.6 148.59 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8eaa826e-2863-47d7-9635-5dd7dec74294")
+		(property "Reference" "#PWR0229"
+			(at 355.6 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 355.6 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 355.6 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 355.6 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 355.6 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7dab4a59-f370-4336-87f6-b8cba7ead2a5")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "#PWR0229")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 356.87 129.54 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f39ea37-8074-4560-9c8c-fb3a7807bb35")
+		(property "Reference" "C242"
+			(at 353.06 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2n2"
+			(at 353.06 130.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 355.9048 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 356.87 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized ceramic capacitor"
+			(at 356.87 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C3225B106K500NT"
+			(at 356.87 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f650c606-6bea-4e93-91aa-f56ab6533774")
+		)
+		(pin "2"
+			(uuid "f05e8f58-27c1-4fdf-bbb9-e9adba581f96")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "C242")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 331.47 97.79 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9302fa9a-2cd3-416a-ab9e-22f50833d04a")
+		(property "Reference" "SP17"
+			(at 334.772 92.71 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+15V_out"
+			(at 334.772 95.25 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 331.47 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 331.47 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 331.47 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "18ab73d0-1eb9-4db4-86d3-7d3b83990e2a")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "SP17")
 					(unit 1)
 				)
 			)
@@ -10706,6 +12093,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+15V")
+		(at 355.6 97.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ab06a370-223c-40a3-811e-f4fd4c06c064")
+		(property "Reference" "#PWR0226"
+			(at 359.41 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+15V"
+			(at 351.79 97.7899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 355.6 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 355.6 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+15V\""
+			(at 355.6 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "95007c6c-e08b-4934-88f6-b0489d53dec7")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "#PWR0226")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 223.52 59.69 0)
 		(unit 1)
@@ -10793,6 +12258,85 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
 					(reference "R303")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 330.2 109.22 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1040efb-14fa-45f6-ba0c-23938cbf75cc")
+		(property "Reference" "#PWR0234"
+			(at 330.2 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 330.2 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 330.2 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "466fa729-1dca-45c5-86c5-1f9a9a762011")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -11713,6 +13257,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 358.14 148.59 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc73c45a-616a-44ff-9750-896e9160c5e4")
+		(property "Reference" "SP16"
+			(at 361.442 143.51 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND_out"
+			(at 361.442 146.05 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 358.14 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 358.14 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 358.14 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b107dfac-5e1c-4404-b038-63e8a5d70396")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "SP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 153.67 38.1 90)
 		(unit 1)
@@ -11797,6 +13419,84 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
 					(reference "R301")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 331.47 148.59 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ce1fb155-035d-4f72-a7c6-1759d49b6df4")
+		(property "Reference" "SP19"
+			(at 334.772 143.51 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND_out"
+			(at 334.772 146.05 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 331.47 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 331.47 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 331.47 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "69a7f6f3-43c1-4e9d-8719-eca0a48ffd15")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/8482f0e5-17d6-4454-a96f-04921bf44396"
+					(reference "SP19")
 					(unit 1)
 				)
 			)

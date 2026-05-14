@@ -2276,18 +2276,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 17.78 15.24)
-		(end 402.59 250.19)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "4465492f-6557-468a-b07f-b70144a440cf")
-	)
 	(text "R207, R208, R209 и R210 выполнить медными проводниками\nна плате в виде дорожек определенной длины и ширины:"
 		(exclude_from_sim no)
 		(at 314.96 218.44 0)
@@ -2297,16 +2285,6 @@
 			)
 		)
 		(uuid "050035f5-7384-4ed6-848f-6cd423fe4519")
-	)
-	(text "Плата оконечного каскада стабилизации 3.3В 2А"
-		(exclude_from_sim no)
-		(at 375.92 18.034 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "84967ee3-8928-4e16-bdb7-3e824b046c4e")
 	)
 	(junction
 		(at 245.11 88.9)
