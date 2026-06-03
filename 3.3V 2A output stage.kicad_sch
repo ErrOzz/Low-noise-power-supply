@@ -2587,6 +2587,12 @@
 		(uuid "686b52ed-30b4-4288-adb1-354db4d8989c")
 	)
 	(junction
+		(at 124.46 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68ccd5f4-623a-490a-b1a2-91b9a1af1bf9")
+	)
+	(junction
 		(at 365.76 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2791,6 +2797,12 @@
 		(uuid "bab2b818-ef7a-4bd4-b4d0-07eb5ede5873")
 	)
 	(junction
+		(at 120.65 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb149fe4-793e-4972-aa3c-3b3e948e9ed2")
+	)
+	(junction
 		(at 330.2 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2857,12 +2869,6 @@
 		(uuid "d16a1717-e165-4d85-8a8c-34cc218d2794")
 	)
 	(junction
-		(at 119.38 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d7a63e0f-f13e-4e09-a87e-5cb89317c4e6")
-	)
-	(junction
 		(at 298.45 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2879,6 +2885,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddf8600e-937b-4238-b387-12d50af413cf")
+	)
+	(junction
+		(at 114.3 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "def0af28-37e6-4f98-83de-15acff43ef43")
 	)
 	(junction
 		(at 245.11 127)
@@ -3346,6 +3358,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 60.96) (xy 114.3 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f8ccb4a-575d-47ef-bcc8-8e825acda4e3")
+	)
+	(wire
+		(pts
 			(xy 40.64 50.8) (xy 45.72 50.8)
 		)
 		(stroke
@@ -3373,6 +3395,16 @@
 			(type default)
 		)
 		(uuid "22afa0fd-c0cc-4edb-afcd-6ae729e9595f")
+	)
+	(wire
+		(pts
+			(xy 124.46 69.85) (xy 128.27 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22fdb2ac-24ec-4897-91a7-c494186059d6")
 	)
 	(wire
 		(pts
@@ -3966,6 +3998,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 63.5) (xy 120.65 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "490bc5c4-70bf-4e53-9d3e-c59419e22a88")
+	)
+	(wire
+		(pts
 			(xy 139.7 66.04) (xy 154.94 66.04)
 		)
 		(stroke
@@ -4386,7 +4428,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 55.88) (xy 119.38 69.85)
+			(xy 124.46 55.88) (xy 124.46 69.85)
 		)
 		(stroke
 			(width 0)
@@ -4596,7 +4638,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 82.55) (xy 114.3 82.55)
+			(xy 124.46 82.55) (xy 120.65 82.55)
 		)
 		(stroke
 			(width 0)
@@ -4633,6 +4675,16 @@
 			(type default)
 		)
 		(uuid "85351009-4ec8-4b83-952a-e63774522abe")
+	)
+	(wire
+		(pts
+			(xy 120.65 71.12) (xy 120.65 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "853de31b-f58f-4f19-95d9-106de080163c")
 	)
 	(wire
 		(pts
@@ -4796,7 +4848,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 80.01) (xy 119.38 82.55)
+			(xy 124.46 80.01) (xy 124.46 82.55)
 		)
 		(stroke
 			(width 0)
@@ -4906,7 +4958,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 69.85) (xy 119.38 72.39)
+			(xy 124.46 69.85) (xy 124.46 72.39)
 		)
 		(stroke
 			(width 0)
@@ -5386,7 +5438,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 55.88) (xy 119.38 55.88)
+			(xy 111.76 55.88) (xy 124.46 55.88)
 		)
 		(stroke
 			(width 0)
@@ -5936,13 +5988,13 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 69.85) (xy 128.27 69.85)
+			(xy 120.65 82.55) (xy 114.3 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f74f4483-bd02-48a6-8b8b-01a175725ff5")
+		(uuid "f63f614f-29da-4973-af1f-818823a35e4b")
 	)
 	(wire
 		(pts
@@ -6646,7 +6698,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 119.38 76.2 0)
+		(at 124.46 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6654,10 +6706,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "061c0882-2c82-488d-8e86-c46aa2ad92a6")
 		(property "Reference" "R205"
-			(at 121.92 74.9299 0)
+			(at 127 76.708 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6668,7 +6719,7 @@
 			)
 		)
 		(property "Value" "40k2"
-			(at 121.92 77.4699 0)
+			(at 127 79.248 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6679,7 +6730,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 117.602 76.2 90)
+			(at 122.682 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6690,7 +6741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 76.2 0)
+			(at 124.46 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6701,7 +6752,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 119.38 76.2 0)
+			(at 124.46 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6712,7 +6763,7 @@
 			)
 		)
 		(property "MPN" "RC0805FR-0740K2L"
-			(at 119.38 76.2 0)
+			(at 124.46 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7963,7 +8014,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75k"
+		(property "Value" "100k"
 			(at 111.76 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9990,7 +10041,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150p"
+		(property "Value" "330p"
 			(at 110.49 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13041,6 +13092,99 @@
 			(project "Low noise power supply"
 				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/4931e360-a75e-47ea-922d-b3c20c53c58e"
 					(reference "L201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 120.65 67.31 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dda0f5f4-3c48-4567-a582-2b893957e2b5")
+		(property "Reference" "C392"
+			(at 120.142 70.104 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "33p"
+			(at 119.634 73.152 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.6848 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized ceramic capacitor"
+			(at 120.65 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0805JRNPO0BN151"
+			(at 120.65 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "531ed764-9341-4cec-8c17-c8104cf2f1de")
+		)
+		(pin "2"
+			(uuid "61973ef3-dc2f-4933-a268-b91da70a3d27")
+		)
+		(instances
+			(project "Low noise power supply"
+				(path "/fca69f12-2166-43a7-ac92-c50992f66d73/4931e360-a75e-47ea-922d-b3c20c53c58e"
+					(reference "C392")
 					(unit 1)
 				)
 			)

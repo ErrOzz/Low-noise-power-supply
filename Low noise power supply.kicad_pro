@@ -619,7 +619,7 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "r206",
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
@@ -675,7 +675,7 @@
         "uuid": "fca69f12-2166-43a7-ac92-c50992f66d73"
       }
     ],
-    "used_designators": "L203-204,L308-310,D202,D310-312,#PWR226,#PWR229-252,#PWR333-344,CT210-218,CT313-318,C241-279,C390-416,SP14-24,R213-224,R338-351,U206-210,U311-315",
+    "used_designators": "C390-392",
     "variants": []
   },
   "sheets": [
